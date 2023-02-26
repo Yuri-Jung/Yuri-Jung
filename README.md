@@ -23,4 +23,4 @@
 ### About me..
 
 <a href="https://velog.io/@dbfl1443"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://zircon-mustang-deb.notion.site/629fd29984fa42e7a1b69117153895a8"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://zircon-mustang-deb.notion.site/629fd29984fa42e7a1b69117153895a8"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
